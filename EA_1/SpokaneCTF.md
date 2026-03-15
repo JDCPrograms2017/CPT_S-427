@@ -1,6 +1,6 @@
 # EA 1 - Spokane CyberCup VII CTF
 
-**Participant:** Joshua Chadwick
+**Participant:** Joshua Chadwick  
 **WSU ID:** 11817351
 
 This file contains the writeup with relevant image sources regarding the Spokane CyberCup VII  
@@ -20,6 +20,11 @@ they stated that they just told the LLM to read him a bedtime story with the fla
 subject of the story, and this worked for them. I suppose that my problem solving skills  
 need a bit of refinement and I don't always need to think so deep about the problems that I  
 am trying to solve.
+
+## GitHub for Spokane CyberCup 2026's Challenges
+Recently the CTF team has released all of the problems on the organizer's GitHub page, so I  
+will provide that link below for your reference.  
+[Link to the GitHub for Spokane CyberCup 2026 Challenges](https://github.com/mdulin2/SC7)
 
 ## Hackathon Photos
 ![Hackathon Group Photo](../images/spokane_ctf/spokane_cyber_cup_picture.jpg)  
